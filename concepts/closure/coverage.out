@@ -1,0 +1,17 @@
+mode: set
+play/play-closure/closure.go:3.27,5.20 2 1
+play/play-closure/closure.go:5.20,8.3 2 1
+play/play-closure/closure.go:11.26,14.20 3 1
+play/play-closure/closure.go:14.20,15.12 1 1
+play/play-closure/closure.go:15.12,18.4 2 1
+play/play-closure/closure.go:19.3,20.11 2 1
+play/play-closure/closure.go:24.27,27.20 3 1
+play/play-closure/closure.go:27.20,28.12 1 1
+play/play-closure/closure.go:28.12,31.4 2 1
+play/play-closure/closure.go:32.3,33.11 2 1
+play/play-closure/closure.go:37.26,42.20 5 1
+play/play-closure/closure.go:42.20,43.12 1 1
+play/play-closure/closure.go:43.12,46.4 2 1
+play/play-closure/closure.go:47.3,47.13 1 1
+play/play-closure/closure.go:47.13,50.4 2 1
+play/play-closure/closure.go:51.3,53.11 3 1
