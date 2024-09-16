@@ -15,9 +15,8 @@ func moveZeroes(nums []int) {
 				t := nums[zs]
 				nums[zs] = nums[i]
 				nums[i] = t
-				if i < zs {
-					zs = i
-				}
+
+				zs += 1
 			}
 		}
 	}
