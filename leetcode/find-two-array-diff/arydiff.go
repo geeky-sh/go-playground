@@ -1,5 +1,7 @@
 package findtwoarraydiff
 
+// ref: https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75
+
 func findDifference(nums1 []int, nums2 []int) [][]int {
 	nmap1 := map[int]int{}
 	for _, v := range nums1 {
